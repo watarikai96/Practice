@@ -1,2 +1,2 @@
-Practice SWE
+Software Engineering Practice Repo
 
