@@ -16,3 +16,14 @@
 // console.log(e + a + sum + a + d);
 
 
+function alertMessage() {
+    alert("Hey there!");
+    console.log("Alert Message YEAH!!!!!");
+}
+
+const myButton = document.getElementById("alertMessage");
+
+myButton.addEventListener("click", function(){
+    console.log("This is an alert button from event listener!");
+})
+
